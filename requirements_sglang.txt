@@ -3,7 +3,7 @@ accelerate
 codetiming
 datasets
 dill
-flash-attn
+# flash-attn
 hydra-core
 numpy<2.0.0
 pandas
@@ -11,11 +11,11 @@ peft
 pyarrow>=19.0.0
 pybind11
 pylatexenc
-ray[default]>=2.10
+# ray[default]>=2.10
 tensordict==0.7.2
 torchdata
 torchvision
-transformers==4.51.3
+# transformers==4.51.3
 wandb
 sglang[all]==0.4.9.post6
-huggingface_hub
+# huggingface_hub
